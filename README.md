@@ -74,7 +74,7 @@ More information about the usage of this directory in [the documentation](https:
 
 Access API Documentation in https://developer.marvel.com.
 
-## `Create file .env`
+## create file .env
 
 ```
 ENV_PUB=<hash public>
