@@ -67,3 +67,16 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+
+
+## APIS Configurations:
+
+Access API Documentation in https://developer.marvel.com.
+
+## `Create file .env`
+
+```
+ENV_PUB=<hash public>
+ENV_PRIV=<hash private>
+```
